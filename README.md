@@ -1,6 +1,8 @@
 # YearCompass MD-edition
 New year's resolutions don't work. YearCompass does.
 
+[Русская версия](russian/README.md)
+
 ## What is this?
 
 It’s a YearCompass — your very own YearCompass, to be exact.
